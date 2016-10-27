@@ -1,1 +1,1 @@
-This is a test commit file to GitHub from SmartGit software!
+This is a test commit file to GitHub from SmartGit software! Added more text!
